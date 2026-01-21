@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
 <a href="https://flarum.org/"><img src="https://flarum.org/assets/img/logo.png"></a>
 </p>
@@ -38,3 +39,8 @@ If you discover a security vulnerability within Flarum, please follow our [secur
 
 Flarum is open-source software licensed under the [MIT License](https://github.com/flarum/flarum/blob/master/LICENSE).
 
+=======
+# forumiumproject
+A Web Based Forum Platform for Students
+ACE6173 Software Engineering Assignment
+>>>>>>> 1f67768ee390ee329df521d751b0d95d3b5037dd
