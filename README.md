@@ -37,7 +37,3 @@ ACE6173 Software Engineering Assignment
 ## License
 
 Forumium is powered by Flarum an open-source software licensed under the [MIT License](https://github.com/flarum/flarum/blob/master/LICENSE).
-
-=======
-
->>>>>>> 1f67768ee390ee329df521d751b0d95d3b5037dd
