@@ -9,6 +9,9 @@
 </p>
 
 ## About Forumium
+# forumiumproject
+A Web Based Forum Platform for Students
+ACE6173 Software Engineering Assignment
 
 ## Tech Stack
 - Flarum (PHP, MySQL)
@@ -36,7 +39,5 @@
 Forumium is powered by Flarum an open-source software licensed under the [MIT License](https://github.com/flarum/flarum/blob/master/LICENSE).
 
 =======
-# forumiumproject
-A Web Based Forum Platform for Students
-ACE6173 Software Engineering Assignment
+
 >>>>>>> 1f67768ee390ee329df521d751b0d95d3b5037dd
