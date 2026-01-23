@@ -1,0 +1,14 @@
+/vendor/
+
+/storage/*
+!/storage/.gitignore
+
+/public/assets/
+
+config.php
+.env
+
+*.log
+.vscode/
+.idea/
+.DS_Store
